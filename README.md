@@ -9,6 +9,6 @@ This plugin displays a message and title to players when they join a server.
 
 # How to set it up
 Just install the plugin and you can use it!
-You can check the status by changing player_ips.json in plugin_data\Welcome-Message.
+You can check the status by changing player_ips.json in plugin_data\AntiSubAccount.
 
 Please try installing it on your server!
