@@ -1,0 +1,4 @@
+name: AntiSubAccount
+version: 1.0.0
+main: asa\Main
+api: 5.0.0
